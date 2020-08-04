@@ -1,0 +1,5 @@
+﻿  IDatabase.cpp
+F:\VS\apps\server\serverDingDong\IDatabase.cpp(326,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\VS\apps\server\serverDingDong\IDatabase.cpp(398,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\VS\apps\server\serverDingDong\IDatabase.cpp(234): warning C4715: 'SqliteDataBase::ask': not all control paths return a value
+  serverDingDong.vcxproj -> F:\VS\apps\server\x64\Debug\serverDingDong.exe

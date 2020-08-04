@@ -1,0 +1,30 @@
+﻿  IDatabase.cpp
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\IDatabase.cpp(325,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\IDatabase.cpp(397,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IRequestHandler.cpp
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\IRequestHandler.cpp(91,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\IRequestHandler.cpp(147,17): warning C4018: '<': signed/unsigned mismatch
+  ResponsePacketSerializer.cpp
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\ResponsePacketSerializer.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\ResponsePacketSerializer.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+  room.cpp
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\room.cpp(202,20): warning C4018: '<': signed/unsigned mismatch
+  Server.cpp
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(187,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(220,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(258,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(274,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(280,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(318,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(354,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(545,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(632,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(640,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(670,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\Server.cpp(678,26): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  WSAInitializer.cpp
+  Generating Code...
+C:\Users\משתמש\Desktop\serverDingDong\serverDingDong\IDatabase.cpp(233): warning C4715: 'SqliteDataBase::ask': not all control paths return a value
+  sqlite3.c
+  serverDingDong.vcxproj -> C:\Users\משתמש\Desktop\serverDingDong\Debug\serverDingDong.exe
